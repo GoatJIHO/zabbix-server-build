@@ -12,3 +12,7 @@ sudo apt install zabbix-agent2 zabbix-agent2-plugin-*
 ```
 /etc/zabbix/zabbix_agent2.conf
 ```
+<br/>
+zabbix agent 버전에 따라 설치
+
+https://www.zabbix.com/download?zabbix=6.4&os_distribution=alma_linux&os_version=9&components=agent_2&db=&ws=
